@@ -1,1 +1,1 @@
-﻿# Digital_Clock using JS-CSS-HMTL5
+﻿# Basic digital clock code 
